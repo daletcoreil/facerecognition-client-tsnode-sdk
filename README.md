@@ -1,0 +1,1 @@
+facerecognition-client-tsnode-sdk
